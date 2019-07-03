@@ -3,10 +3,10 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 150px;
-    background-image: url("image.jpg");
+    margin-top: 311px;
+    background-image: url(image.jpg);
     background-repeat: no-repeat;
-    background-size: 151%; 
+    background-size:300%; 
     font-style: italic;
     }
     
@@ -20,8 +20,8 @@ body{
     
 
     .submit{
-        background-color: #e8618f;
-        color: white;
+     background-color: #e8618f;
+    color: white;
   padding: 20px;
   text-align: center;
   text-decoration: none;
