@@ -6,8 +6,13 @@ body{
     margin-top: 234px;
     background-image: url(image.jpg);
     background-repeat: no-repeat;
-    background-size:300%; 
+    background-size: 300%;
     font-style: italic;
+    color: navy;
+    margin: 701px auto;
+    max-width: 600px;
+    position: relative;
+    bottom: 64px;
     }
     
     h1{
